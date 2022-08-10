@@ -47,7 +47,6 @@ elimiated 'EIN' column shown below
 * What steps did you take to try and increase model performance?
 
 I did the following for optimazation with this model:
-
 1- Creating more bins for rare occurrences in columns
 2- Increasing or decreasing the number of values for each bin
 3- Adding more neurons to a hidden layer
