@@ -10,7 +10,7 @@ The nonprofit organization, Alphabet Soup, is a philanthropic foundation dedicat
 
 Beks, a data analyst is in charge of data collection and analyzation for Alphabet Soup. Beks job is to analye the impact of each donation and vet potential recepients. This insures the foundations dollars are being spent effectivatly. Unfortunatly not ever donation Alaphabet Soup makes is impactful. Some organizations receive money only to disappear. 
 
-Senior leadership at Alaphabet Soup has asked Beks to predict which organizations are worth donating too and which are high risk. Alphabet Soup's leadership has asked Bek and her analytics team to produce a mathmatical data driven solution that can do this accurately. Beks has decided this problem is to complex for statistical and machine learning models she has used in the past. Instead Beks will design and train a deep learning neural network. This model will evalutate all types of input data and produce a clear decision making result. 
+Senior leadership at Alaphabet Soup has asked Beks to predict which organizations are worth donating too and which are high risk. Alphabet Soup's leadership has asked Beks and her analytics team to produce a mathmatical data driven solution that can do this accurately. Beks has decided this problem is to complex for statistical and machine learning models she has used in the past. Instead Beks will design and train a deep learning neural network. This model will evalutate all types of input data and produce a clear decision making result. 
 
 I will assist Beks in learning about neural networks and how to design and train these models using the Python tensorflow library. I will rely on my past statistics and machine learning experience to help test and opptimize the our models.
 
