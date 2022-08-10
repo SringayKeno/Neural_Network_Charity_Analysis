@@ -61,7 +61,7 @@ I did the following for optimazation with this model;
 
 ### Overall results of the deep learning model
 
-
+The model ended up with just over 76% accuracy. I believe with further bucketing, thus reducing the noisey data the accuracy  could climb. Concerning is the loss score at 54. The output of the loss function is a measure of how well our model did at predicting the outcome. A high value for the loss means our model performed very poorly. The lower the loss, the better a model (unless the model has over-fitted to the training data). The loss is calculated on training and validation and its interperation is how well the model is doing for these two sets. It is a summation of the errors made for each example in training or validation sets.
 
 ### Recommendation 
 
