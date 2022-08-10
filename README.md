@@ -8,7 +8,7 @@ Neural networks (also known as artificial neural networks, or ANN) are a set of 
 
 The nonprofit organization, Alphabet Soup, is a philanthropic foundation dedicated to helping organizations protect the environment, improve peoples well being and unify the world. Alphabet Soup has raised and donated over 10 Billion dollars in the last 20 years. This money has been used in life saving technologies and organizing reforestation groups. 
 
-Beks, a data analyst is in charge of data collection and analyzation for Alphabet Soup. Beks job is to analye the impact of each donation and vet potential recepiants. This insures the foundations dollars are being spent effectivatly. Unfortunatly not ever donation Alaphabet Soup makes is impactful. Some organizations receive money only to disappear. 
+Beks, a data analyst is in charge of data collection and analyzation for Alphabet Soup. Beks job is to analye the impact of each donation and vet potential recepients. This insures the foundations dollars are being spent effectivatly. Unfortunatly not ever donation Alaphabet Soup makes is impactful. Some organizations receive money only to disappear. 
 
 Senior leadership at Alaphabet Soup has asked Beks to predict which organizations are worth donating too and which are high risk. Alphabet Soup's leadership has asked Bek and her analytics team to produce a mathmatical data driven solution that can do this accurately. Beks has decided this problem is to complex for statistical and machine learning models she has used in the past. Instead Beks will design and train a deep learning neural network. This model will evalutate all types of input data and produce a clear decision making result. 
 
@@ -22,7 +22,7 @@ With knowledge of machine learning and neural networks, I will use the features 
 ### Data Preprocessing
 
 * What variable(s) are considered the target(s) for your model?
-The target variable of a dataset is the feature of a dataset about which you want to gain a deeper understanding. A supervised machine learning algorithm uses historical data to learn patterns and uncover relationships between other features of your dataset and the target. The target in our dataset was "Is Successful". 
+The target variable of a dataset is the feature of a dataset about which you want to gain a deeper understanding. A supervised machine learning algorithm uses historical data to learn patterns and uncover relationships between other features of your dataset and the target. The target in our dataset was "Is Successful". THe successful target denoted campaigns where alphabet Soup donated where monies were deemed as effectively used.
 
 * What variable(s) are considered to be the features for your model?
 Features are nothing but the independent variables in machine learning models. The features in this model are show in image below
@@ -37,9 +37,22 @@ elimiated 'EIN' column shown below
 <img width="348" alt="Screenshot (441)" src="https://user-images.githubusercontent.com/102890151/184016509-ef163468-fb91-4534-9768-91b78178dd8d.png">
 
 ### Compiling, Training, and Evaluating the Model
-How many neurons, layers, and activation functions did you select for your neural network model, and why?
-Were you able to achieve the target model performance?
-What steps did you take to try and increase model performance?
+
+* How many neurons, layers, and activation functions did you select for your neural network model, and why?
+
+
+* Were you able to achieve the target model performance? Yes.
+
+
+* What steps did you take to try and increase model performance?
+I did the following for optimazation with this model:
+
+* Creating more bins for rare occurrences in columns
+* Increasing or decreasing the number of values for each bin
+* Adding more neurons to a hidden layer
+* Adding more hidden layers
+
+
 
 ## Summary
 
