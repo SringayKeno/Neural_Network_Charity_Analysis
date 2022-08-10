@@ -39,7 +39,8 @@ elimiated 'EIN' column shown below
 ### Compiling, Training, and Evaluating the Model
 
 * How many neurons, layers, and activation functions did you select for your neural network model, and why?
-
+During first run of model I used the suggested number of neurons from the module. From there I adjusted upward and added a 3rd hidden layer. THe results were minimal to no effect on the model's performance. I used 'relu' for the input and hidden layers
+which is best for this model(for supervised tasks on large sets of labelled data).'sigmoid' was used for the outer layer. 
 
 * Were you able to achieve the target model performance? 
 Yes. In order to do so I didn't remove the 'Names' column as I had done in with previous iterations of this model. I used the 'Name column to separate the organizations into yet another bucket.
