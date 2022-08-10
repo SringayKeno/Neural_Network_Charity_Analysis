@@ -45,7 +45,7 @@ elimiated 'EIN' column shown below
 Yes. In order to do so I didn't remove the 'Names' column as I had done in with previous iterations of this model. I used the 'Name column to separate the organizations into yet another bucket.
 Once this was done I was able to rerun the model and achieve the > 75 threshold. Accuracy below
 
-<img width="601" alt="Screenshot (442)" src="https://user-images.githubusercontent.com/102890151/184026546-efe48eea-3fef-4753-be40-b915a9ab939d.png">
+<img width="601" alt="Screenshot (400)" src="https://user-images.githubusercontent.com/102890151/184026546-efe48eea-3fef-4753-be40-b915a9ab939d.png">
 
 
 * What steps did you take to try and increase model performance?
