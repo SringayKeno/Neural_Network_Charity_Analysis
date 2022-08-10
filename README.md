@@ -33,11 +33,10 @@ Features are nothing but the independent variables in machine learning models. T
 During first model and several attempts at optimiation I eliminated the columns 'Name and 'Ein'. Later in furth optimization attempts I added the 'Name' column back to the dataframe.
 
 elimiated 'EIN' column shown below 
+
 <img width="348" alt="Screenshot (441)" src="https://user-images.githubusercontent.com/102890151/184016509-ef163468-fb91-4534-9768-91b78178dd8d.png">
 
-
-
-Compiling, Training, and Evaluating the Model
+### Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 Were you able to achieve the target model performance?
 What steps did you take to try and increase model performance?
