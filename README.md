@@ -59,5 +59,10 @@ I did the following for optimazation with this model;
 
 ## Summary
 
-Summarize the overall results of the deep learning model. Include a recommendation 
-for how a different model could solve this classification problem, and explain your recommendation.
+### Overall results of the deep learning model
+
+
+
+### Recommendation 
+
+If I was to test further I would first go to Support Vector Machines (SVM) since this is a binary classification problem. SVM is a fast and dependable classification algorithm that performs very well with a limited amount of data to analyze.
