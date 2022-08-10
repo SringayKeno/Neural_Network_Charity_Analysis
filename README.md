@@ -24,13 +24,19 @@ With knowledge of machine learning and neural networks, I will use the features 
 * What variable(s) are considered the target(s) for your model?
 The target variable of a dataset is the feature of a dataset about which you want to gain a deeper understanding. A supervised machine learning algorithm uses historical data to learn patterns and uncover relationships between other features of your dataset and the target. The target in our dataset was "Is Successful". 
 
-What variable(s) are considered to be the features for your model?
+* What variable(s) are considered to be the features for your model?
 Features are nothing but the independent variables in machine learning models. The features in this model are show in image below
 
 <img width="224" alt="Screenshot (440)" src="https://user-images.githubusercontent.com/102890151/184015878-d4e0e107-b27a-470e-ae12-c0963c5efde5.png">
 
+* What variable(s) are neither targets nor features, and should be removed from the input data?
+During first model and several attempts at optimiation I eliminated the columns 'Name and 'Ein'. Later in furth optimization attempts I added the 'Name' column back to the dataframe.
 
-What variable(s) are neither targets nor features, and should be removed from the input data?
+elimiated 'EIN' column shown below 
+<img width="348" alt="Screenshot (441)" src="https://user-images.githubusercontent.com/102890151/184016509-ef163468-fb91-4534-9768-91b78178dd8d.png">
+
+
+
 Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 Were you able to achieve the target model performance?
