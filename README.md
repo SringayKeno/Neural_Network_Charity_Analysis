@@ -2,6 +2,8 @@
 
 ### Create a deep robust neural network capable of interpreting large complext datasets
 
+Neural networks (also known as artificial neural networks, or ANN) are a set of algorithms that are modeled after the human brain. They are an advanced form of machine learning that recognizes patterns and features in input data and provides a clear quantitative output. In its simplest form, a neural network contains layers of neurons, which perform individual computations. These computations are connected and weighed against one another until the neurons reach the final layer, which returns a numerical result, or an encoded categorical result.
+
 ## Overview of Analysis
 
 The nonprofit organization, Alphabet Soup, is a philanthropic foundation dedicated to helping organizations protect the environment, improve peoples well being and unify the world. Alphabet Soup has raised and donated over 10 Billion dollars in the last 20 years. This money has been used in life saving technologies and organizing reforestation groups. 
@@ -17,9 +19,17 @@ With knowledge of machine learning and neural networks, I will use the features 
 
 ## Results
 
-Data Preprocessing
-What variable(s) are considered the target(s) for your model?
+### Data Preprocessing
+
+* What variable(s) are considered the target(s) for your model?
+The target variable of a dataset is the feature of a dataset about which you want to gain a deeper understanding. A supervised machine learning algorithm uses historical data to learn patterns and uncover relationships between other features of your dataset and the target. The target in our dataset was "Is Successful". 
+
 What variable(s) are considered to be the features for your model?
+Features are nothing but the independent variables in machine learning models. The features in this model are show in image below
+
+<img width="224" alt="Screenshot (440)" src="https://user-images.githubusercontent.com/102890151/184015878-d4e0e107-b27a-470e-ae12-c0963c5efde5.png">
+
+
 What variable(s) are neither targets nor features, and should be removed from the input data?
 Compiling, Training, and Evaluating the Model
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
